@@ -6,4 +6,16 @@ some addition to second file
 
 
 
+<<<<<<< HEAD
 some staging branch new information
+=======
+
+
+
+
+
+
+
+
+staging magic (branch staging)
+>>>>>>> staging

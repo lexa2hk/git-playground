@@ -1,3 +1,17 @@
 
 second file
 some addition to second file
+
+
+
+
+
+
+
+
+
+
+
+
+
+staging magic (branch staging)
